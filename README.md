@@ -27,3 +27,16 @@ listas con orden
 `1. Resolver el problema`
 `2. Escribir el código`
 `3. Compartir la solución`
+
+otra forma de lista 
+
+
+`* Resolver el problema`
+` * Mirar posibles soluciones`
+` * Establecer cual es la más adecuada`
+`* Escribir el código`
+` * Elegir un lenguaje`
+` * Elegir los tipos de dato más adecuados`
+`* Compartir la solución`
+` * Publicarla en Github`
+` * Escribir un artículo sobre ello`

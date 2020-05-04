@@ -1,2 +1,3 @@
-# mark_down
-Entrenamiento en mark_down
+# Este es el nombre de mi proyecto  
+## Cómo instalar. 
+### Instalar desde GitHub y así.

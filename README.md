@@ -19,3 +19,11 @@ Lista sin orden
 `* Resolver el problema`
 `* Escribir el código`
 `* Compartir la solución`
+
+
+
+listas con orden 
+
+`1. Resolver el problema`
+`2. Escribir el código`
+`3. Compartir la solución`
